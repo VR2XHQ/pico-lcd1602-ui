@@ -4,7 +4,7 @@ All notable changes to this project will be documented here.
 
 ---
 
-## [v1.0.0] - 2024-06-30
+## [v1.0.0] - 2024-07-14
 
 🎉 Initial public release with:
 
