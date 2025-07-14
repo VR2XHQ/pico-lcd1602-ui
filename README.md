@@ -13,7 +13,7 @@
 
 # Pico LCD1602 UI Module
 
-🧩 A modular LCD control system for Raspberry Pi Pico, written in C/C++ with support for custom icons, semantic UI functions, and mixed-style API.
+🧩 A modular LCD control system for Raspberry Pi Pico, written in C/C++ with support for custom icons, semantic UI functions, and mixed-style API. The C++ library is copied from https://github.com/cristiancristea00/Pico-I2C-LCD. With the help of Copilot AI, I wrap it with C language and add UI interface.
 
 ---
 
@@ -43,6 +43,7 @@ lcd_ui_show_welcome();
 
  📁 Project Structure
 
+```text
 lcd1602/
 ├── main.c
 ├── CMakeLists.txt
@@ -57,6 +58,7 @@ lcd1602/
 │   └── lcd_demo.png
 ├── LICENSE
 └── README.md
+```
 
 ---
 
