@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/github/last-commit/VR2XHQ/pico-lcd1602-ui" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/VR2XHQ/pico-lcd1602-ui" />
+</p>
+
 ---
 
 # Pico LCD1602 UI Module
